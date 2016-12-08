@@ -1,7 +1,7 @@
-# Aprende-Git-con-Eleanor-Roosevelt
+# Aprende Git con Eleanor Roosevelt
 Tutorial de Git y GitHub para todos los públicos. No requiere de ningún conocimiento previo y está enfocado para todos, no solo programadores.
 
-En este tutorial interactivo se exploran los siguientes conceptos:
+El tutorial está dividido en las siguientes unidades:
 
 0. Instalar git.
 1. ¿Qué es git? Motivación y conceptos.
@@ -17,14 +17,26 @@ En este tutorial interactivo se exploran los siguientes conceptos:
 11. Arrejuntar: git merge
 12. ¿Esto es todo?
 
-Para empezar, consulta la carpeta de "Temas".
+Para empezar, consulta la carpeta de "Unidades".
 
-Otros tutoriales intersantes en español:
+## Otros tutoriales intersantes
+
+### En español:
 
 * Tutorial de @obijuan de Git, GitHub y Freecad: http://www.iearobotics.com/wiki/index.php?title=Tutorial:_Github_y_Freecad
 
-En inglés:
+### En inglés:
 * Tutorial sencillo y directo. Ideal como recordatorio o quién quiera ir al grano: http://rogerdudler.github.io/git-guide/
 * Otro tutorial, más extenso, que también está dirigido a todos los públicos: https://red-badger.com/blog/2016/11/29/gitgithub-in-plain-english
 * GitHub tiene su propio tutorial online: https://try.github.io/
+
+## Licencias
+
+Todo el código está publicado bajo una licencia GNU GENERAL PUBLIC LICENSE Version 3.
+
+Todo el contenido que no sea código y que sea propio está publicado bajo una licencia CC:
+
+![CC BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+[Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License.](https://creativecommons.org/licenses/by-sa/4.0/)
 
